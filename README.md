@@ -198,11 +198,12 @@ The repository includes selected screenshots of the Access implementation to dem
 
 The PostgreSQL implementation is organized into three reproducible SQL scripts:
 
+```text
 database/
-
 ├── 01_create_tables.sql
 ├── 02_load_data.sql
 └── 03_validate_database.sql
+```
 
 ### 01_create_tables.sql
 
@@ -251,19 +252,21 @@ The final PostgreSQL implementation contains 12 relational tables and was valida
 
 The migration workflow was designed to preserve data consistency between the Access and PostgreSQL implementations:
 
+```text
 Controlled Dataset
-↓
+        ↓
 Microsoft Access
-↓
+        ↓
 Controlled Extraction
-↓
+        ↓
 CSV / Staging
-↓
+        ↓
 PostgreSQL
-↓
+        ↓
 Post-load Validation
-↓
+        ↓
 Cross-platform Validation
+```
 
 Source identifiers were preserved during migration so that records could be traced and reconciled across platforms.
 
