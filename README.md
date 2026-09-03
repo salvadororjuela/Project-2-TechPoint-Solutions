@@ -43,7 +43,6 @@ The repository includes nine CSV files used for controlled data loading and repr
 
 Selected screenshots document the implemented Access solution, including:
 
-- [Entity Relationship Diagram](screenshots/TechPoint_ERD_Audit_2026-08-17.png)
 - [frmSales](screenshots/frmSales_Form.png)
 - [frmPurchases](screenshots/frmPurchases_Form.png)
 - [rptSalesDetail](screenshots/rptSalesDetails.png)
@@ -109,6 +108,8 @@ Key modeling elements include:
 The Entity Relationship Diagram (ERD) provides a visual representation of the final relational database model, including the 12 entities, their primary and foreign keys, and the approved relationships between them.
 
 The diagram was used to review and validate the relational structure before and during implementation in Microsoft Access and PostgreSQL.
+
+![Entity Relationship Diagram](screenshots/TechPoint_ERD_Audit_2026-08-17.png)
 
 ## Technology Stack
 
