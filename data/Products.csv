@@ -1,0 +1,58 @@
+ProductID,SKU,ProductName,CategoryID,SellingPrice,Status
+1,CMP-001,"Business Laptop 14""",1,849.99,Active
+2,CMP-002,"Business Laptop 15""",1,979.99,Active
+3,CMP-003,"Entry Laptop 14""",1,649.99,Active
+4,CMP-004,"Performance Laptop 15""",1,1279,Active
+5,CMP-005,Desktop PC Core i5,1,849,Active
+6,CMP-006,Desktop PC Core i7,1,1179.99,Active
+7,CMP-007,Mini Desktop PC,1,699.99,Active
+8,CMP-008,"24"" Office Monitor",1,219.99,Active
+9,CMP-009,"27"" IPS Monitor",1,329.99,Active
+10,CMP-010,Mechanical Keyboard,1,84.99,Active
+11,CMP-011,Wireless Keyboard,1,44.99,Active
+12,CMP-012,Wireless Mouse,1,26.99,Active
+13,CMP-013,Ergonomic Mouse,1,54.99,Active
+14,CMP-014,USB-C Docking Station,1,149.99,Active
+15,CMP-015,Laptop Cooling Pad,1,44.99,Active
+16,CON-001,Wi-Fi 5 Router,2,54.99,Active
+17,CON-002,Wi-Fi 6 Router,2,94.99,Active
+18,CON-003,Dual-Band Access Point,2,89.99,Active
+19,CON-004,8-Port Gigabit Switch,2,69.99,Active
+20,CON-005,16-Port Gigabit Switch,2,129.99,Active
+21,CON-006,USB Wi-Fi Adapter,2,22.99,Active
+22,CON-007,Bluetooth USB Adapter,2,19.99,Active
+23,CON-008,USB-C Ethernet Adapter,2,34.99,Active
+24,CON-009,Cat6 Ethernet Cable 5m,2,10.99,Active
+25,CON-010,Cat6 Ethernet Cable 15m,2,19.99,Active
+26,AUD-001,Wireless Bluetooth Headset,3,84.99,Active
+27,AUD-002,USB Office Headset,3,54.99,Active
+28,AUD-003,Gaming Headset,3,99.99,Active
+29,AUD-004,Wired Stereo Headphones,3,34.99,Active
+30,AUD-005,Bluetooth Earbuds,3,59.99,Active
+31,AUD-006,Premium Wireless Earbuds,3,119.99,Active
+32,AUD-007,Portable Bluetooth Speaker,3,69.99,Active
+33,AUD-008,Compact Bluetooth Speaker,3,44.99,Active
+34,AUD-009,USB Conference Speakerphone,3,119,Active
+35,AUD-010,USB Condenser Microphone,3,79.99,Active
+36,AUD-011,Desktop Soundbar,3,74.99,Active
+37,ACC-001,"Laptop Backpack 15""",4,54.99,Active
+38,ACC-002,"Laptop Sleeve 14""",4,29.99,Active
+39,ACC-003,"Laptop Sleeve 15""",4,34.99,Active
+40,ACC-004,USB-C Charging Cable 1m,4,14.99,Active
+41,ACC-005,USB-C Charging Cable 2m,4,19.99,Active
+42,ACC-006,USB-C Multiport Adapter,4,69.99,Active
+43,ACC-007,4-Port USB Hub,4,29.99,Active
+44,ACC-008,7-Port USB Hub,4,49.99,Active
+45,ACC-009,Wireless Presenter,4,39.99,Active
+46,ACC-010,1080p USB Webcam,4,54.99,Active
+47,ACC-011,"Privacy Screen 14""",4,44.99,Active
+48,ACC-012,Adjustable Laptop Stand,4,39.99,Active
+49,ACC-013,Monitor Arm Single,4,84.99,Active
+50,STO-001,USB Flash Drive 64GB,5,14.99,Active
+51,STO-002,USB Flash Drive 128GB,5,21.99,Active
+52,STO-003,USB Flash Drive 256GB,5,39.99,Active
+53,STO-004,External HDD 1TB,5,84.99,Active
+54,STO-005,External HDD 2TB,5,109.99,Active
+55,STO-006,Portable SSD 500GB,5,94.99,Active
+56,STO-007,Portable SSD 1TB,5,149.99,Active
+57,STO-008,Portable SSD 2TB,5,239.99,Active
